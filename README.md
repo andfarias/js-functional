@@ -1,7 +1,9 @@
 # js-functional
 
 ## 📝 About
-This project was developed with curse "Fundamentals of Functional JavaScript"" by COD3R.
+This project was developed with course "Fundamentals of Functional JavaScript"" by COD3R.
+
+Concepts such as, arrow function, Function expression, map, filter, reduce, callback, promise, async/await, POO were made.
 
 ## 🚀 Technologies
 * JavaScript
